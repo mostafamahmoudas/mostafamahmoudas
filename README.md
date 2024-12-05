@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Mustafa Mahmoud - Backend Developer & CEO of 7t
 
-<!--
-**mostafamahmoudas/mostafamahmoudas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Mustafa Mahmoud** 👨‍💻, a passionate **backend developer** and **server expert** 💻. I specialize in building scalable, efficient systems and managing servers. I’m also the CEO of **7t** 🚀.
 
-Here are some ideas to get you started:
+## 🛠️ Skills and Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Development**: Expertise in creating robust backend applications using a variety of technologies.
+- **Server Management**: Managing and optimizing servers with tools like **Linux** 🐧 and **Docker** 🐳.
+- **Programming Languages**:
+  - **Node.js** 🌐
+  - **PHP** 🔧
+  - **HTML/CSS** 🎨
+  - **Python** 🐍
+  - **Java** ☕
+  - **C, C#, C++** 💻
+  - **docker, bash, reactjs** 🤖
+
+
+- **Software Development**: Building and deploying highly efficient software solutions.
+- **Project Management**: Leading projects with a focus on delivering high-quality products using advanced project management tools.
+
+## 💼 Projects I Work On
+
+- **Hosting Services**: Providing innovative and fast hosting solutions for small to large projects. ⚡
+- **Server Management Systems**: Designing flexible and secure server environments for various applications. 🖥️
+- **Libraries & Frameworks**: Developing tools and libraries to enhance productivity for developers. 📚
+
+## 🔧 Technologies I Use
+
+- **Linux**: Full control over Linux-based servers for maximum flexibility and security. 🔐
+- **Docker**: Creating containerized applications for easier deployment and scaling. 🏗️
+
+---
+
